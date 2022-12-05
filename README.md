@@ -26,8 +26,8 @@ BOARD  iCE40HX1K-EVB
     PIO3_7B  16  | 25  26 |  28  PIO2_3
     PIO3_8A  18  | 27  28 |  27  PIO2_2
     PIO3_8B  19  | 29  30 |  26  PIO2_1
-   PIO3_10A  20  | 31  32 |  25  PIO3_12B
-   PIO3_10B  21  | 33  34 |  24  PIO3_12A
+    PIO3_10A 20  | 31  32 |  25  PIO3_12B
+    PIO3_10B 21  | 33  34 |  24  PIO3_12A
                   -------- 
                    PIN
 
